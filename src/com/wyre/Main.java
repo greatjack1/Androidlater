@@ -155,6 +155,7 @@ public class Main {
                 //now write the new strings file
                 PrintStringsFile(props, new File(path + "values-" + langs + "/strings.xml"));
             }
+            System.out.println("Done. Translation is complete!!!!!");
         } catch (Exception ex) {
             System.out.println(ex.getMessage());
         }
