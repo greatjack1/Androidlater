@@ -22,7 +22,10 @@ public class Main {
                 currLang = "en";
             }
             String path = Main.class.getProtectionDomain().getCodeSource().getLocation().toURI().getPath();
-            String stringFilePath = Main.class.getProtectionDomain().getCodeSource().getLocation().toURI().getPath() + "values/strings.xml";
+            //substring it to the closest /
+            path = new File(path).getParentFile().toPath().toString();
+            System.out.println(path);
+            String stringFilePath = path + "/values/strings.xml";
             List<String> languages = new ArrayList<String>();
             languages.add(Languages.Hebrew);
             languages.add(Languages.Yiddish);
@@ -128,7 +131,7 @@ public class Main {
             languages.add(Languages.Zulu);
             for (String langs : languages) {
                 //create the directory for that languages resources
-                CreateDir(path + "values-" + langs);
+                CreateDir(path + "/values-" + langs);
                 System.out.println("Creating folder values-" + langs);
                 File file = new File(stringFilePath);
                 DocumentBuilder dBuilder = DocumentBuilderFactory.newInstance()
@@ -153,7 +156,7 @@ public class Main {
                     props.add(prop);
                 }
                 //now write the new strings file
-                PrintStringsFile(props, new File(path + "values-" + langs + "/strings.xml"));
+                PrintStringsFile(props, new File(path + "/values-" + langs + "/strings.xml"));
             }
             System.out.println("Done. Translation is complete!!!!!");
         } catch (Exception ex) {

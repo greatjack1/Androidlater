@@ -7,117 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3fa5a29-79db-420c-b877-eeee672e7040" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Androidlater_jar/Androidlater.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/Androidlater.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/com/wyre/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/com/wyre/StringProperty.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-af/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-am/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ar/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-az/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-be/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-bg/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-bn/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-bs/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ca/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ceb/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-co/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-cs/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-cy/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-da/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-de/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-el/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-en/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-eo/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-es/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-et/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-eu/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-fa/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-fi/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-fr/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-fy/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ga/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-gd/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-gl/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-gu/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ha/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-haw/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-hi/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-hmn/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-hr/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ht/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-hu/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-hy/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-id/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ig/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-is/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-it/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-iw/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ja/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-jw/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ka/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-kk/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-km/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-kn/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ko/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ku/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ky/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-la/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-lb/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-lo/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-lt/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-lv/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ma/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-mg/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-mi/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-mk/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ml/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-mn/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-mr/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ms/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-mt/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ne/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-nl/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-no/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ny/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-pl/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ps/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-pt/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ro/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ru/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-sd/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-si/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-sk/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-sm/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-sn/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-so/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-sq/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-sr/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-st/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-su/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-sv/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-sw/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ta/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-te/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-tg/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-th/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-tl/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-tr/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-uk/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-ur/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-uz/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-vi/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-xh/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-yi/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-yo/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-zh-cn/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-zh-tw/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values-zu/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values/colors.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values/ic_launcher_background.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Androidlater/values/styles.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/Androidlater_jar/Androidlater.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/wyre/Main.java" afterPath="$PROJECT_DIR$/src/com/wyre/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -132,11 +24,11 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/wyre/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="158" column="25" lean-forward="false" selection-start-line="158" selection-start-column="25" selection-end-line="158" selection-end-column="25" />
+            <state relative-caret-position="187">
+              <caret line="27" column="45" lean-forward="false" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#842#850#0" expanded="true" />
+                <element signature="e#920#928#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -202,7 +94,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,9 +139,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -315,41 +207,54 @@
       <option name="presentableId" value="Default" />
       <updated>1538313406861</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added done message after program completes">
+      <created>1538337264344</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538337264344</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.49676898" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.509693" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.49030694" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.49676898" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.509693" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.49030694" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39889959" sideWeight="0.49353796" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added done message after program completes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added done message after program completes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -358,6 +263,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/wyre/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#920#928#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wyre/StringProperty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wyre/StringProperty.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -373,11 +302,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wyre/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="158" column="25" lean-forward="false" selection-start-line="158" selection-start-column="25" selection-end-line="158" selection-end-column="25" />
+        <state relative-caret-position="187">
+          <caret line="27" column="45" lean-forward="false" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#842#850#0" expanded="true" />
+            <element signature="e#920#928#0" expanded="true" />
           </folding>
         </state>
       </provider>
