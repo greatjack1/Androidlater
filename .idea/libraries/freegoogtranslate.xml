@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="freegoogtranslate">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../freegoogtranslate/out/artifacts/freegoogtranslate_jar/freegoogtranslate.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

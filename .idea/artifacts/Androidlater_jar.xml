@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Androidlater:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Androidlater_jar</output-path>
+    <root id="archive" name="Androidlater.jar">
+      <element id="module-output" name="Androidlater" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../freegoogtranslate/out/artifacts/freegoogtranslate_jar/freegoogtranslate.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
