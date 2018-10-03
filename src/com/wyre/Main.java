@@ -146,7 +146,16 @@ public class Main {
                     String value = node.getFirstChild().getNodeValue();
                     Translater trans = new Translater();
                     System.out.println("Translating the string " +value);
-                    value =  trans.translate(currLang,langs,value);
+                    try {
+                        value = trans.translate(currLang, langs, value);
+                    } catch (Exception ex){
+                        //If there is a error translating, then wait 2 minutes and then try again
+                        System.out.println("Google is throttling us and we are unable to translate. We will wait 2 minutes and try again");
+                        System.out.println("Waiting........");
+                        Thread.sleep(120000);
+                        System.out.println("Waiting completed, retrying....");
+                        value = trans.translate(currLang, langs, value);
+                    }
                   //sleep for a second to prevent google throttling
                     System.out.println("Translation is " + value);
                     System.out.println("Sleeping for 1 second to avoid google throttling");
